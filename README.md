@@ -28,5 +28,9 @@ We need to start by creating a Maven pom.xml file. The pom.xml is the recipe tha
 ```
 parent 부분 복사해서 pom.xml 에 추가하기
 
-mvn package 
-java -jar target springbootgettingstarted-1.0-SNAPSHOT.jar
+## mvn package 패키지 마는 방법 
+> mvn package  
+> java -jar target springbootgettingstarted-1.0-SNAPSHOT.jar
+
+## start.spring.io
+> 해당 페이지로 가서 프로젝트를 생성 할 수 있다.
